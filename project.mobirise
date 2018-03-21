@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "Site-03-21_1055",
+    "name": "Simpl Event Concierge",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -21,6 +21,8 @@
         "isRtl": false
       }
     },
+    "favicon": "",
+    "noImageResize": "",
     "versionFirst": "4.6.6",
     "uniqCompNum": 11,
     "versionPublish": "4.6.6"
