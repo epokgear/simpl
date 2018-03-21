@@ -25,7 +25,9 @@
     "noImageResize": "",
     "versionFirst": "4.6.6",
     "uniqCompNum": 11,
-    "versionPublish": "4.6.6"
+    "versionPublish": "4.6.6",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -167,7 +169,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Contacts</strong><br>\nEmail: support@simplsupply.com<br>\nSMS: +1 770.231.4896<br><br><br>To get started just text your event details to 770.231.4896<br><br><br><br>",
+          "text1": "<strong>Contacts</strong><br>\nEmail: simplsupply@gmail.com<br>\nSMS: +1 770.231.4896<br><br><br>To get started just text your event details to 770.231.4896<br><br><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Pages</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"page1.html\">FAQ</a></li><li><a href=\"https://form.jotform.com/80794602284158\">Create An Account</a></li></ul>",
           "form": {
             "title": "MESSAGE",
@@ -379,7 +381,7 @@
             "overlayOpacity": 0.8
           },
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\">Contact us</a>",
-          "text1": "<strong>Contacts</strong><br>\nEmail: support@simplsupply.com<br>\nSMS: +1 770.231.4896<br><br><br>To get started just text your event details to 770.231.4896<br><br><br><br>",
+          "text1": "<strong>Contacts</strong><br>\nEmail: simplsupply@gmail.com<br>\nSMS: +1 770.231.4896<br><br><br>To get started just text your event details to 770.231.4896<br><br><br><br>",
           "text2": "<p class=\"mbr-contacts__text\"><strong>Pages</strong></p><ul class=\"mbr-contacts__list\"><li><a href=\"page1.html\">FAQ</a></li><li><a href=\"https://form.jotform.com/80794602284158\">Create An Account</a></li></ul>",
           "form": {
             "title": "MESSAGE",
